@@ -1,0 +1,21 @@
+{
+  "genres": ["Post-Apocalyptic", "Dystopian"],
+  "time_period": "2150s",
+  "participants": [
+    {
+      "archetype": "The Scavenger",
+      "custom_desc": "Knows the ruins of Old New York better than anyone."
+    },
+    {
+      "archetype": "The AI Companion",
+      "custom_desc": "A damaged service bot that thinks it's a butler."
+    }
+  ],
+  "narrative_spark": {
+    "starter": "Finding a clean water source becomes a matter of life and death.",
+    "custom_spark": "The water source is guarded by a tribe of mutants."
+  },
+  "reading_effort": "Level 2 (Standard / Balanced)",
+  "create_only_first_chapter": true
+}
+

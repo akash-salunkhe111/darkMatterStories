@@ -1,0 +1,21 @@
+{
+  "genres": ["Cyberpunk", "Noir"],
+  "time_period": "2030s",
+  "participants": [
+    {
+      "archetype": "The Hacker",
+      "custom_desc": "A cynical ex-corp netrunner with a neural interface addiction."
+    },
+    {
+      "archetype": "The Street Samurai",
+      "custom_desc": "Honor-bound mercenary with chrome plating and a mysterious past."
+    }
+  ],
+  "narrative_spark": {
+    "starter": "A stolen data chip contains proof of a corporate conspiracy.",
+    "custom_spark": "The chip is encrypted with a 'ghost in the machine' AI."
+  },
+  "reading_effort": "Level 2 (Standard / Balanced)",
+  "create_only_first_chapter": false
+}
+

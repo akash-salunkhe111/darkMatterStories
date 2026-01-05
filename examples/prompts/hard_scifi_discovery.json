@@ -1,0 +1,17 @@
+{
+  "genres": ["Hard Sci-Fi", "Cosmic Horror"],
+  "time_period": "End of Time",
+  "participants": [
+    {
+      "archetype": "The Quantum Physicist",
+      "custom_desc": "Obsessed with entropy and the final state of the universe."
+    }
+  ],
+  "narrative_spark": {
+    "starter": "An experiment to reverse entropy yields terrifying results.",
+    "custom_spark": "The universe begins to contract, but not in the way physics predicts."
+  },
+  "reading_effort": "Level 4 (Technical / Hard)",
+  "create_only_first_chapter": false
+}
+

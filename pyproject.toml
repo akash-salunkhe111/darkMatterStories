@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "event-horizon"
+version = "0.1.0"
+description = "Sci-fi story generator backend"
+authors = ["AI Assistant"]
+readme = "readme.md"
+packages = [{include = "app"}]
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "*"
+uvicorn = "*"
+pydantic-ai = "*"
+qdrant-client = "*"
+python-dotenv = "*"
+devtools = "*"
+fastembed = "^0.7.4"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+

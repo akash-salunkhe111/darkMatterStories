@@ -1,0 +1,21 @@
+{
+  "genres": ["Space Opera", "Military Sci-Fi"],
+  "time_period": "3000+",
+  "participants": [
+    {
+      "archetype": "The Commander",
+      "custom_desc": "Veteran of the Galactic Wars, tired of fighting."
+    },
+    {
+      "archetype": "The Alien Diplomat",
+      "custom_desc": "Represents a hive-mind species, speaks in riddles."
+    }
+  ],
+  "narrative_spark": {
+    "starter": "First contact with a new species goes wrong during a peace summit.",
+    "custom_spark": "The new species communicates through aggressive color displays."
+  },
+  "reading_effort": "Level 1 (Quick-Read / Light)",
+  "create_only_first_chapter": false
+}
+

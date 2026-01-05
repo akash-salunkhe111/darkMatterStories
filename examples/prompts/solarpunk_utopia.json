@@ -1,0 +1,21 @@
+{
+  "genres": ["Solarpunk", "Utopian"],
+  "time_period": "2150s",
+  "participants": [
+    {
+      "archetype": "The Architect",
+      "custom_desc": "Designs living buildings that breathe and photosynthesize."
+    },
+    {
+      "archetype": "The Botanist",
+      "custom_desc": "Specializes in genetically modifying plants for structural integrity."
+    }
+  ],
+  "narrative_spark": {
+    "starter": "A new energy source threatens the delicate balance of the eco-city.",
+    "custom_spark": "The energy source is actually a dormant ancient technology."
+  },
+  "reading_effort": "Level 3 (Deep / Immersive)",
+  "create_only_first_chapter": true
+}
+
